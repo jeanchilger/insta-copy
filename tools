@@ -1,0 +1,5 @@
+- nodemon (yarn add nodemon)
+- MongoDB Atlas 
+- mongoose (yarn add mongoose)
+- multer (Multpart form data, automatiza uploads)
+- sharp (manipular imagens)
