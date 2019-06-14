@@ -3,3 +3,6 @@
 - mongoose (yarn add mongoose)
 - multer (Multpart form data, automatiza uploads)
 - sharp (manipular imagens)
+- yarn create react-app frontend
+- yarn add react-router-dom (pras rotas no front)
+- yarn add axios
